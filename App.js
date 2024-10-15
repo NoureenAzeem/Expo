@@ -4,7 +4,7 @@ import React from 'react'
 const App = () => {
   return (
     <View className="flex-1 justify-center items-center bg-black">
-      <Text className="text-2xl">App</Text>
+      <Text className="text-2xl">Noreen</Text>
     </View>
   )
 }
